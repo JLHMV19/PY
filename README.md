@@ -1,2 +1,2 @@
-# PY
-python projects
+Only basic projects by me
+
